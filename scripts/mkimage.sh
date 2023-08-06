@@ -6,7 +6,7 @@ usage()
 {
     echo "Usage: $0 <Path to GSI system> <Output Type> <System Partition Size> <Output File> [--old]"
     echo -e "\tPath to GSI system : Mount GSI and set mount point"
-    echo -e "\tOutput type : AB or A-Only"
+    echo -e "\tOutput type : AB"
     echo -e "\tSystem Partition Size : set system Partition Size"
     echo -e "\tOutput File : set Output file path (system.img)"
     echo -e "\told : use ext4fs to make image"
