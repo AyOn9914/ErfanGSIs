@@ -1,4 +1,4 @@
-#!/bin/bash test
+#!/bin/bash 
 
 # Project OEM-GSI Porter by Erfan Abdi <erfangplus@gmail.com>
 
